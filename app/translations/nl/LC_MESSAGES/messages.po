@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-12-18 21:32+0000\n"
+"POT-Creation-Date: 2017-12-19 16:29+0000\n"
 "PO-Revision-Date: 2017-12-18 21:35+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: nl\n"
@@ -92,7 +92,9 @@ msgstr "Je bent nu een geregistreerd gebruiker."
 
 #: app/routes.py:106
 msgid "Check your email for the instructions to reset your password"
-msgstr "Controleer uw mailbox voor instructies om uw wachtwoord opniew in te stellen"
+msgstr ""
+"Controleer uw mailbox voor instructies om uw wachtwoord opniew in te "
+"stellen"
 
 #: app/routes.py:123
 msgid "Your password has been reset."
@@ -240,3 +242,4 @@ msgstr "Volg"
 #: app/templates/user.html:19
 msgid "Unfollow"
 msgstr "Ontvolg"
+
